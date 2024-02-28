@@ -10,11 +10,21 @@
 </h2>
 <p>
   !pip install tkinter
-from tkinter import *
-from tkinter import messagebox
-!pip install playsound -q
+</p>
+<p>
+  from tkinter import *
+</p>
+<p>
+  from tkinter import messagebox
+</p>
+<p>
+  !pip install playsound -q
 from playsound import playsound
-!pip install pyttsx3
+</p>
+<p>
+  !pip install pyttsx3
 import pyttsx3 as pyttsx
+</p>
+<p>
 import time
 </p>
